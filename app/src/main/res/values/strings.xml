@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+
+    <string-array name="spinnerItems">
+        <item>w66m</item>
+        <item>w61x</item>
+        <item>w61t</item>
+    </string-array>
+
+</resources>
